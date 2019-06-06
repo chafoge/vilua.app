@@ -1,11 +1,5 @@
 <script>
-    /**
-        Global request schema to request and set response variable
-        Requires request object "req_" with key = options container
-        and response object "res_" with key = response container
-
-        *Concept of not writing code twice
-     */
+    // Global request schema to request and set response variable
 
     export default {
         name: "resFactory",
